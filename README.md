@@ -55,6 +55,20 @@ Tenk gjennom om møtet skal gå videre eller stoppe hvis noen deltakere sliter m
 
 Det er ikke nødvendig å spørre "hører dere meg" før man begynner å snakke. Folk kommer til å si i fra hvis ikke.
 
+**Verktøy for å se og snakke med hverandre**
+
+- 🛠 [Discord](https://discordapp.com) Er som Slack, bare at vi har persistente lydkanaler og ikke bare tekstlige kanaler. Fantastisk for å ha et rom der folk kan komme og gå som de vil og er perfekt som å bruke som team-radio. Eller til gaming, såklart.
+- 🛠 [Google Meet](https://meet.google.com) Verktøy for tekst-chat, videosamtaler, skjermdeling, ring inn via telefon
+- 🛠 [Prexip](https://www.pexip.com) Kan ringe til in-room systemer à la det vi har på Konditoriet, Fiskehallen og Heggholmen.Du får et “virtuelt møterom” (VMR - virtual meeting room, et vanlig begrep i videokonferanseverden) som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android, eller via en nettleser. Mange kan delta i rommet, og du kan styre hvem som har mikrofon / kamera på. Enkelt å dele skjerm. Pexip kan også kobles mot Google Hangouts og Skype for Business.
+- 🛠 [Cisco Meeting](https://www.cisco.com/c/en/us/support/conferencing/cisco-meeting-app/tsd-products-support-series-home.html) Du får et “virtuelt møterom” (VMR - virtual meeting room, et vanlig begrep i videokonferanseverden) som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android, eller via en nettleser. Mange kan delta i rommet, og du kan styre hvem som har mikrofon / kamera på. Enkelt å dele skjerm.
+
+**Verktøy for workshops**
+
+- 🛠 [Mural](https://mural.co/) Workshops remote. Det har features som live-oppdatering, dot-voting av lapper, sette tidsfrister til brainstorming, osv.
+- 🛠 [Miro](https://miro.com/) Funka overraskende bra til retro! Fordi man har begrenset skjermplass til både video og miro, brukte vi bare lyd — men siden man kan se musepekeren til alle deltakere, lagde vi et lite "vil snakke", "snakker" - visuelt køsystem. Digge retroverktøy i Miro: 1) Alle kan redigere samtidig, 2) Timer som er synlig for alle, 3) Anonym avstemningsystem, som gjorde at vi kunne stemme på hva vi ville snakke mer om uten å utsette folk for gruppetenking
+- 🛠 [Draw.io](draw.io) Verktøy for å lage diagrammer. Flere kan samhandle og det kan lagres til google drive. Kan brukes til workshop og som tavle ved behov.
+- 🛠 [Figma](https://www.figma.com) Opprinnelig ment som UX-verktøy, men kan fungere ypperlig som samhandlingsverktøy også. Om teamet bruker Figma som tegneverktøy, kan dette lett brukes. Features: Redigere samtidig, Follow-mode ( skjermen viser alltid musepekeren til en du velger), Gratis for observers, betalt for de som skal redigere/tegne
+
 ## 🗣 Samhandling ("praten ved pulten")
 
 
