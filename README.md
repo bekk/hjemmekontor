@@ -1,6 +1,12 @@
 # 🏡 Hjemmekontorplassen
 
-**Tips, triks og inspirasjon**
+**Tips og triks**
+
+- Det er viktigere å gi status jevnt enn når man sitter sammen. Å starte dagen med at alle på teamet poster en dagsplan, noe om forventet tilgjengelighet gjennom dagen (på både video og chat) og hvorvidt de trenger å jobbe sammen med noen andre i løpet av dagen (f.eks. en utvikler som trenger en designer).
+- Pass på å vær tydelig med hverandre om egen tilgjengelighet. Vi er vant til å kunne se over bordet om folk er på jobb, hvis eneste samhandling er på Slack er det irriterende hvis noen bare plutselig forsvinner.
+- Vær ekstra obs på dette hvis bare deler av teamet er remote. En god tommelfingerregel er at hele teamet bør oppføre seg som alle er remote hvis noen er det.
+
+**Les mer og inspirasjon**
 - 📰 [Why Great Teams Embrace Remote Work](https://info.trello.com/embrace-remote-work-ultimate-guide) En samling fra Trello som har sett på hvordan flere flinke firmaer håndtere jobbing hjemmefra.
 - 📰 [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) Fra GitLab om hvordan man kan fostre en remote-first kultur og hva som er viktig å tenke på for en slik organisasjon.
 - 📰 [Et norsk perspektiv fra DN. - 10 tips: Slik lykkes du med hjemmekontoret](https://www.dn.no/d2/livsstil/10-tips-slik-lykkes-du-med-hjemmekontoret/2-1-771731) 
