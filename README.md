@@ -15,7 +15,6 @@ Vær ekstra obs på dette hvis bare deler av teamet er remote. En god tommelfing
 📰 [Why Great Teams Embrace Remote Work](https://info.trello.com/embrace-remote-work-ultimate-guide) |
 En samling fra Trello som har sett på hvordan flere flinke firmaer håndtere jobbing hjemmefra.
 
-
 📰 [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) |
 Fra GitLab om hvordan man kan fostre en remote-first kultur og hva som er viktig å tenke på for en slik organisasjon.
 
