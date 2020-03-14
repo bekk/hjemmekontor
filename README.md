@@ -2,9 +2,11 @@
 
 Det har vært spennende å se hvordan vi har tilpasset oss endringen de siste dagene. Vi har vært fleksible, generøse og kreative. Det har rett og slett vært imponerende å få oppleve endringen! God jobbet!
 
-For å gjøre overgangentil hjemmekontor best mulig deler vi det som har dukket opp av tips og triks i våre Slack kanaler, vel som rundt om i IT-Norge og i verden. For overgangen til hjemmekontor er ikke bare en norsk dugnad, den er internasjonal. Fra [Microsoft som tilbyr Teams gratis til bedrifter i 6 måneder](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) til [Discord som øker antall deltagere i Go Live ](https://blog.discordapp.com/helping-out-where-we-can-3a5fb7bac77a) er det tydelig at vi er i dette sammen og at vi strekker oss langt for å hjelpe hverandre der vi kan!
+For å gjøre overgangen til hjemmekontor best mulig deler vi det som har dukket opp av tips og triks i våre Slack kanaler, vel som rundt om i IT-Norge og i verden. For overgangen til hjemmekontor er ikke bare en norsk dugnad, den er internasjonal. Fra [Microsoft som tilbyr Teams gratis til bedrifter i 6 måneder](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) til [Discord som øker antall deltagere i Go Live ](https://blog.discordapp.com/helping-out-where-we-can-3a5fb7bac77a) er det tydelig at vi er i dette sammen og at vi strekker oss langt for å hjelpe hverandre der vi kan!
 
-**Vi tar gjerne imot forslag til endringer og ting som kan legges til!** Fork og lagen PR så får vi det inn så raskt vi kan. Hvis du av en grunn ikke har anledning til å lage en PR kan du sende en mail til dag.solberg@bekk.no
+**Vi tar gjerne imot forslag til endringer og ting som kan legges til!** Fork og lag en PR så får vi det inn så raskt vi kan. Hvis du av en grunn ikke har anledning til å lage en PR kan du sende en mail til hjemmekontor@bekk.no.
+
+**Spørsmål?** De aller aller fleste verktøyene her brukes av en eller flere teams i Bekk. Har du spørsmål om erfaringer? Send en mail til hjemmekontor@bekk.no!
 
 ##  Tips og triks
 
@@ -95,3 +97,7 @@ Lenke | Beskrivelse
 
 
 ## 🧒 Barn
+
+Lenke | Aldersgruppe | Beskrivelse
+--- | --- | ---
+[Salaby](https://barnehage.salaby.no/) | 2-4 år | Nettside med masse spill, videoer, osv.
