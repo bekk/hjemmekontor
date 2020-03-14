@@ -62,11 +62,15 @@ Det er ikke nødvendig å spørre "hører dere meg" før man begynner å snakke.
 
 ### Verktøy for å se og snakke med hverandre
 
+Det som er skikkelig vrient med løsningene som finnes for videosamtaler, er at mange av dem ikke snakker med hverandre, og at hver av dem har noen særegenheter som du ikke vet om før du har brukt dem en stund. I første omgang vil vi her samle en liste over verktøy som vi har erfaring med, deretter vil vi forsøke å forklare hva som er bra, mindre bra og skikkelig irriterende med hver av dem.
+
+Det er tre ting som er viktige om du vil
+
 Verktøy | Beskrivelse
 --- | ---
 🛠 [Discord](https://discordapp.com) | Er som Slack, bare at vi har persistente lydkanaler og ikke bare tekstlige kanaler. Fantastisk for å ha et rom der folk kan komme og gå som de vil og er perfekt som å bruke som team-radio. Eller til gaming, såklart.
 🛠 [Google Meet](https://meet.google.com) | Verktøy for tekst-chat, videosamtaler, skjermdeling, ring inn via telefon
-🛠 [Prexip](https://www.pexip.com) | Kan ringe til in-room systemer à la det vi har på Konditoriet, Fiskehallen og Heggholmen.Du får et “virtuelt møterom” (VMR - virtual meeting room, et vanlig begrep i videokonferanseverden) som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android, eller via en nettleser. Mange kan delta i rommet, og du kan styre hvem som har mikrofon / kamera på. Enkelt å dele skjerm. Pexip kan også kobles mot Google Hangouts og Skype for Business.
+🛠 [Pexip](https://www.pexip.com) | En nokså "altetende" videoplattform hvor du ringer inn til et "virtuelt møterom" (VMR – Virtual Meeting Room, det er bare å lære seg fagbegrepet først som sist) som er kompatibel med Skype for Business (det som het Lync før), Google Hangouts, og såkalte "Standards-based" systemer som en finner på proffe videokonferanserom (SIP / H.323-enheter). Du kan bruke Pexip på Windows, macOS, iOS, Android og via en nettleser. De har [flusst av features|https://www.pexip.com/video-meetings/]. Dersom du mot formodning skulle streve med å dele skjerm og vise video på én gang, kan du f.eks. ringe inn med appen på telefonen og bruke kameraet der, og samtidig ringe inn med datamaskinen din og dele skjerm. Den som "eier" rommet kan styre hvem som deltar, fjernstyre folks mikrofoner, osv.
 🛠 [Cisco Meeting](https://www.cisco.com/c/en/us/support/conferencing/cisco-meeting-app/tsd-products-support-series-home.html) | Du får et “virtuelt møterom” (VMR - virtual meeting room, et vanlig begrep i videokonferanseverden) som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android, eller via en nettleser. Mange kan delta i rommet, og du kan styre hvem som har mikrofon / kamera på. Enkelt å dele skjerm.
 
 
