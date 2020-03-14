@@ -41,23 +41,23 @@ Verktøy | Beskrivelse
 
 ## 👥 Møtene
 
-Alle må mute mikrofonen når de ikke snakker for å hindre tastatur- og bakgrunnsstøy
+- Alle må mute mikrofonen når de ikke snakker for å hindre tastatur- og bakgrunnsstøy
 
-Så lenge båndbredden fungerer er det en stor fordel om alle har på video. Det er vanskelig å holde oversikt over hvem som er til stede uten video.
+- Så lenge båndbredden fungerer er det en stor fordel om alle har på video. Det er vanskelig å holde oversikt over hvem som er til stede uten video.
 
-Ha en tydelig møteleder som kan styre hvem som skal snakke.
+- Ha en tydelig møteleder som kan styre hvem som skal snakke.
 
-Bruk håndsopprekning og talelister (krever video).
+- Bruk håndsopprekning og talelister (krever video).
 
-Ha en oversiktelig agenda. Dårlig styrte møter er enda verre i videokonferanse, for det er vanskeligere for noen å hoppe inn for å justere.
+- Ha en oversiktelig agenda. Dårlig styrte møter er enda verre i videokonferanse, for det er vanskeligere for noen å hoppe inn for å justere.
 
-Vurder å ha en forhåndsdefinert måte å si fra på hvis noen sliter med video, f.eks. Slack eller chat på videoplatformen.
+- Vurder å ha en forhåndsdefinert måte å si fra på hvis noen sliter med video, f.eks. Slack eller chat på videoplatformen.
 
-Tenk gjennom om møtet skal gå videre eller stoppe hvis noen deltakere sliter med nett. Det er en vanskelig vurdering å ta on the fly med mer enn 8 deltakere.
+- Tenk gjennom om møtet skal gå videre eller stoppe hvis noen deltakere sliter med nett. Det er en vanskelig vurdering å ta on the fly med mer enn 8 deltakere.
 
-Å ha en lett synlig chatteplatform ved siden av er en god måte å kunne sende inn spørsmål på. Det fungerer absolutt best hvis det er innebygd chat i videoplatformen.
+- Å ha en lett synlig chatteplatform ved siden av er en god måte å kunne sende inn spørsmål på. Det fungerer absolutt best hvis det er innebygd chat i videoplatformen.
 
-Det er ikke nødvendig å spørre "hører dere meg" før man begynner å snakke. Folk kommer til å si i fra hvis ikke.
+- Det er ikke nødvendig å spørre "hører dere meg" før man begynner å snakke. Folk kommer til å si i fra hvis ikke.
 
 
 ### Verktøy for å se og snakke med hverandre
