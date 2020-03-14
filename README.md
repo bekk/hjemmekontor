@@ -88,9 +88,13 @@ Verktøy | Beskrivelse
 🛠 [Figma](https://www.figma.com) | Opprinnelig ment som UX-verktøy, men kan fungere ypperlig som samhandlingsverktøy også. Om teamet bruker Figma som tegneverktøy, kan dette lett brukes. Features: Redigere samtidig, Follow-mode ( skjermen viser alltid musepekeren til en du velger), Gratis for observers, betalt for de som skal redigere/tegne
 
 ## 🗣 Samhandling ("praten ved pulten")
+Med Discord kan en opprette egen kanal hvor mic og lyd blir muta, men andre kan dra deg over i en annen kanal. På den måten kan en bli med i denne kanalen og fortelle andre om at du er tilgjengelig så kan de bare dra deg over i den kanalen de trenger deg i. Blir litt som å komme bort til pulten og spørre.
 
+Det kan også være nyttig å ha en kanal for teamet hvor alle i teamet blir med men holder mic mutet til en har behov for å spørre om noe. Dette senker terskelen for å ta kontakt.
 
 ## 💕 Det sosiale ("kaffemaskinpraten")
+
+Vi har de siste dagene samlet oss om lunch quizen på Discord. Det har fungert temmelig bra! Ellers er det ikke noe i veien for å avtale litt kaffeprat!
 
 
 ## 💪🏿 Helse
