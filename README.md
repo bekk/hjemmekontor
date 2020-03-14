@@ -68,11 +68,15 @@ Det er tre ting som er viktige om du vil
 
 Verktøy | Beskrivelse
 --- | ---
+🛠 [Slack](https://slack.com/intl/en-no/) | App som lar deg opprette en server for en bedrift og flere kanaler for forskjellige grupperinger. Primært fokus på text, men med mulighet for å ringe og dele skjermbilde.  
 🛠 [Discord](https://discordapp.com) | Er som Slack, bare at vi har persistente lydkanaler og ikke bare tekstlige kanaler. Fantastisk for å ha et rom der folk kan komme og gå som de vil og er perfekt som å bruke som team-radio. Eller til gaming, såklart.
 🛠 [Google Meet](https://meet.google.com) | Verktøy for tekst-chat, videosamtaler, skjermdeling, ring inn via telefon
 🛠 [Pexip](https://www.pexip.com) | En nokså "altetende" videoplattform hvor du ringer inn til et "virtuelt møterom" (VMR – Virtual Meeting Room, det er bare å lære seg fagbegrepet først som sist) som er kompatibel med Skype for Business (det som het Lync før), Google Hangouts, og såkalte "Standards-based" systemer som en finner på proffe videokonferanserom (SIP / H.323-enheter). Du kan bruke Pexip på Windows, macOS, iOS, Android og via en nettleser. De har [flusst av features|https://www.pexip.com/video-meetings/]. Dersom du mot formodning skulle streve med å dele skjerm og vise video på én gang, kan du f.eks. ringe inn med appen på telefonen og bruke kameraet der, og samtidig ringe inn med datamaskinen din og dele skjerm. Den som "eier" rommet kan styre hvem som deltar, fjernstyre folks mikrofoner, osv.
 🛠 [Cisco Meeting](https://www.cisco.com/c/en/us/support/conferencing/cisco-meeting-app/tsd-products-support-series-home.html) | Du får et “virtuelt møterom” (VMR - virtual meeting room, et vanlig begrep i videokonferanseverden) som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android, eller via en nettleser. Mange kan delta i rommet, og du kan styre hvem som har mikrofon / kamera på. Enkelt å dele skjerm.
-
+🛠 [Zoom](https://zoom.us)|Om du oppgraderer, kan du ringe til in-room-systemer, og få et VMR, som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android. Zoom har en fascinerende kombinasjon av gode features og skrekkelig grensesnittdesign. En kan fx “rekke opp hånden” i appen. Zoom kan også brukes til større samlinger, som virtuelle konferanser, osv.
+🛠 [Whereby](https://whereby.com)|Whereby laget kun rundt ideen om virtuelle møterom. Du ringer inn til et rom, du ringer ikke til andre brukere.Du trenger bare Firefox / nyere versjon av Chrome for å bruke Whereby, men de har også apper for iOS og Android.Whereby er veldig rett-frem å bruke. Enkelt å dele skjerm via Firefox. Du kan ikke ringe in-room-løsninger med Whereby.
+🛠 [Webex Meetings](https://www.webex.com/video-conferencing) | Dette er en tjeneste fra Cisco hvor du får et personlig møterom som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android, eller via en nettleser.Du kan ringe in-room systemer med denne, og det finnes versjoner av Webex som lar deg ha webinarer, store møter, osv.Det finnes også virtuelle møterom, løsninger for samhandling à la Slack, osv.
+🛠 [Microsoft Teams](https://teams.microsoft.com/_#/discover) | Mulighet for chat, samtale og video. Passer godt for de som bruker Office 365.
 
 ### Verktøy for workshops
 
