@@ -20,6 +20,7 @@ Vær ekstra obs på dette hvis bare deler av teamet er remote. En god tommelfing
 
  Lenke  | Beskrivelse 
  --- | --- 
+📰 [GitLab om remote work](https://about.gitlab.com/company/culture/all-remote/) | GitLab er et "All Remote" selskap. De har mange års erfaring for remote work og har delt masse om hvordan de gjøre det og hvilke utfordringer de har møtt på og kommet over.
 📰 [Why Great Teams Embrace Remote Work](https://info.trello.com/embrace-remote-work-ultimate-guide) | En samling fra Trello som har sett på hvordan flere flinke firmaer håndtere jobbing hjemmefra.
 📰 [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) | Fra GitLab om hvordan man kan fostre en remote-first kultur og hva som er viktig å tenke på for en slik organisasjon.
  📰 [Et norsk perspektiv fra DN.](https://www.dn.no/d2/livsstil/10-tips-slik-lykkes-du-med-hjemmekontoret/2-1-771731) |  10 tips: Slik lykkes du med hjemmekontoret
@@ -113,3 +114,4 @@ Lenke | Beskrivelse
 Lenke | Aldersgruppe | Beskrivelse
 --- | --- | ---
 [Salaby](https://barnehage.salaby.no/) | 2-4 år | Nettside med masse spill, videoer, osv.
+
