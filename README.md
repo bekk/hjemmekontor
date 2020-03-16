@@ -116,8 +116,3 @@ Lenke | Aldersgruppe | Beskrivelse
 [Salaby Barnehage](https://barnehage.salaby.no/) | 2-6 år | Nettside med masse spill, videoer, osv. for barn i barnehagealder.
 [Aftenposten Junior](https://www.aftenposten.no/kampanje/aftenpostenjunior/) | Barne- og ungdomsskole | Egen avis for barn.
 [Lesemeister](https://lesemeister.no/) | Barne- og ungdomsskole | Lesetrening. Kan [åpnes for skoler etter avtale](https://lesemeister.no/tilbud-om-gratis-bruk-av-lesemester-nar-skolen-er-stengt/) for gratis bruk.
-
-
-## 💪 Dugnad
-
-Hjemmekontor og karantene kom nok brått på ganske mange. I tillegg fraråder FHI folk å ta offentlig transport for å redusere smitterisiko. Har du f.eks. behov for å få kontorutstyr kjøpt fra IKEA, datautstyr fra Elkjøp, og få dette levert til hjemmekontoret? Flere av oss har tilgang til bil og stillere gjerne opp (helt frivillig og gratis). Bare send en mail til hjemmekontor@bekk.no så skal vi hjelpe så godt vi kan.
