@@ -10,11 +10,13 @@ For å gjøre overgangen til hjemmekontor best mulig deler vi det som har dukket
 
 ##  Tips og triks
 
-Det er viktigere å gi status jevnt enn når man sitter sammen. Å starte dagen med at alle på teamet poster en dagsplan, noe om forventet tilgjengelighet gjennom dagen (på både video og chat) og hvorvidt de trenger å jobbe sammen med noen andre i løpet av dagen (f.eks. en utvikler som trenger en designer).
+Noen erfaringer vi har gjort oss med å ha folk sittende på hjemmekontor:
 
-Pass på å vær tydelig med hverandre om egen tilgjengelighet. Vi er vant til å kunne se over bordet om folk er på jobb, hvis eneste samhandling er på Slack er det irriterende hvis noen bare plutselig forsvinner.
+1. Det er viktigere å gi status jevnt enn når man sitter sammen. Å starte dagen med at alle på teamet poster en dagsplan, noe om forventet tilgjengelighet gjennom dagen (på både video og chat) og hvorvidt de trenger å jobbe sammen med noen andre i løpet av dagen (f.eks. en utvikler som trenger en designer).
 
-Vær ekstra obs på dette hvis bare deler av teamet er remote. En god tommelfingerregel er at hele teamet bør oppføre seg som alle er remote hvis noen er det.
+2. Pass på å vær tydelig med hverandre om egen tilgjengelighet. Vi er vant til å kunne se over bordet om folk er på jobb, hvis eneste samhandling er på Slack er det irriterende hvis noen bare plutselig forsvinner.
+
+3. Vær ekstra obs på dette hvis bare deler av teamet er remote. En god tommelfingerregel er at hele teamet bør oppføre seg som alle er remote hvis noen er det.
 
 ## 📕 Les mer og inspirasjon
 
@@ -42,23 +44,25 @@ Verktøy | Beskrivelse
 
 ## 👥 Møtene
 
-- Alle må mute mikrofonen når de ikke snakker for å hindre tastatur- og bakgrunnsstøy
+Noen erfaringer med å gjennomføre møter når noen eller alle er remote:
 
-- Så lenge båndbredden fungerer er det en stor fordel om alle har på video. Det er vanskelig å holde oversikt over hvem som er til stede uten video.
+1. Alle må mute mikrofonen når de ikke snakker for å hindre tastatur- og bakgrunnsstøy
 
-- Ha en tydelig møteleder som kan styre hvem som skal snakke.
+2. Så lenge båndbredden fungerer er det en stor fordel om alle har på video. Det er vanskelig å holde oversikt over hvem som er til stede uten video.
 
-- Bruk håndsopprekning og talelister (krever video).
+3. Ha en tydelig møteleder som kan styre hvem som skal snakke.
 
-- Ha en oversiktelig agenda. Dårlig styrte møter er enda verre i videokonferanse, for det er vanskeligere for noen å hoppe inn for å justere.
+4. Bruk håndsopprekning og talelister (krever video).
 
-- Vurder å ha en forhåndsdefinert måte å si fra på hvis noen sliter med video, f.eks. Slack eller chat på videoplatformen.
+5. Ha en oversiktelig agenda. Dårlig styrte møter er enda verre i videokonferanse, for det er vanskeligere for noen å hoppe inn for å justere.
 
-- Tenk gjennom om møtet skal gå videre eller stoppe hvis noen deltakere sliter med nett. Det er en vanskelig vurdering å ta on the fly med mer enn 8 deltakere.
+6. Vurder å ha en forhåndsdefinert måte å si fra på hvis noen sliter med video, f.eks. Slack eller chat på videoplatformen.
 
-- Å ha en lett synlig chatteplatform ved siden av er en god måte å kunne sende inn spørsmål på. Det fungerer absolutt best hvis det er innebygd chat i videoplatformen.
+7. Tenk gjennom om møtet skal gå videre eller stoppe hvis noen deltakere sliter med nett. Det er en vanskelig vurdering å ta on the fly med mer enn 8 deltakere.
 
-- Det er ikke nødvendig å spørre "hører dere meg" før man begynner å snakke. Folk kommer til å si i fra hvis ikke.
+8. Å ha en lett synlig chatteplatform ved siden av er en god måte å kunne sende inn spørsmål på. Det fungerer absolutt best hvis det er innebygd chat i videoplatformen.
+
+9. Det er ikke nødvendig å spørre "hører dere meg" før man begynner å snakke. Folk kommer til å si i fra hvis ikke.
 
 
 ### Verktøy for å se og snakke med hverandre
