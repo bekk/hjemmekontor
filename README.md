@@ -122,7 +122,7 @@ Lenke | Aldersgruppe | Beskrivelse
 [Salaby Barnehage](https://barnehage.salaby.no/) | 2-6 år | Nettside med masse spill, videoer, osv. for barn i barnehagealder.
 [Aftenposten Junior](https://www.aftenposten.no/kampanje/aftenpostenjunior/) | Barne- og ungdomsskole | Egen avis for barn.
 [Lesemeister](https://lesemeister.no/) | Barne- og ungdomsskole | Lesetrening. Kan [åpnes for skoler etter avtale](https://lesemeister.no/tilbud-om-gratis-bruk-av-lesemester-nar-skolen-er-stengt/) for gratis bruk.
-[BrettBoka](https://brettboka.no/?fbclid=IwAR2WHBWANAMUfocNFGoWid0TA5AddqHh6XRMWufxVnVKubpa3F5C1SLhmAo) | BrettBoka tilbyr digitale lærebøker fra alle forlag samlet i én bokhylle. Gratis under krisen med kampanjekode *corona20*
+[BrettBoka](https://brettboka.no/?fbclid=IwAR2WHBWANAMUfocNFGoWid0TA5AddqHh6XRMWufxVnVKubpa3F5C1SLhmAo) | 5 - 19 | BrettBoka tilbyr digitale lærebøker fra alle forlag samlet i én bokhylle. Gratis under krisen med kampanjekode *corona20*
 
 
 ## 💪 Dugnad
