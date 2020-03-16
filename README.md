@@ -110,6 +110,7 @@ Lenke | Beskrivelse
 --- | ---
 [Sats - Alt du trenger for å trene hjemme](https://www.sats.no/campaign/alt-du-trenger-for-a-trene-hjemme/)| Sats har åpnet opp treningsvideoene sine. Hjemmetrening, yoga, dagens økt med mer!
 [3T - Hjemmetrening](https://3t.no/hjemmetrening/) | Gravid / mamma, Hiit, Styrke, Yoga
+[LiveGymSkole - hjemmetrening for barn og unge](https://livegymskole.no/) | Når barna ikke får komme til gymsalen, får gymsalen komme til barna.
 [Yogobe](https://yogobe.com/no/) |  Krever betaling. Yoga, pilates, beveglighetstrening, JinYoga, løping, styke. Mange nivåer.
 
 
