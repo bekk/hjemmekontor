@@ -113,6 +113,6 @@ Lenke | Beskrivelse
 
 Lenke | Aldersgruppe | Beskrivelse
 --- | --- | ---
-[Salaby](https://barnehage.salaby.no/) | 2-4 år | Nettside med masse spill, videoer, osv.
+[Salaby Barnehage](https://barnehage.salaby.no/) | 2-6 år | Nettside med masse spill, videoer, osv. for barn i barnehagealder.
 [Aftenposten Junior](https://www.aftenposten.no/kampanje/aftenpostenjunior/) | Barne- og ungdomsskole | Egen avis for barn.
 [Lesemeister](https://lesemeister.no/) | Barne- og ungdomsskole | Lesetrening. Kan [åpnes for skoler etter avtale](https://lesemeister.no/tilbud-om-gratis-bruk-av-lesemester-nar-skolen-er-stengt/) for gratis bruk.
