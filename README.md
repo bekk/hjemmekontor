@@ -30,6 +30,7 @@ Noen erfaringer vi har gjort oss med å ha folk sittende på hjemmekontor:
 📰 [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)  | “The how, where, why, and when we communicate. Long form asynchronous? Real-time chat? In-person? Video? Verbal? Written? Via email? In Basecamp? How do we keep everyone in the loop without everyone getting tangled in everyone else's business? It's all in here.”
 📰 [Norge jobber i hjemmekontor](https://dntv.dn.no/m/Du1ocZ7n/norge-jobber-i-hjemmekontor-tre-tips-til-arbeidstaker-og-ett-ekstra-tips-til-lederne) | Tre tips til arbeidstaker og ett ekstra tips til lederne
 📕 [REMOTE: Office Not Required](https://basecamp.com/books/remote) | In this book, Jason Fried and David Heinemeier Hansson show both employers and employees how they can work together, remotely, from any desk, in any place, anytime, anywhere.
+🎧 [Kortslutning: Hjemmekontor](https://kortslutning.simplecast.com/episodes/hjemmekontor) | "Hjemmekontor er den nye normalen for veldig mange i disse tider, oss også. Hvordan har vi opplevd den første tiden med så utbredt bruk av hjemmekontor? Hvilke ting synes vi er vanskelige og hvilke ting har vært overaskende?"
 
 
 ## 🛠 Verktøy
