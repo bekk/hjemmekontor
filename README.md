@@ -131,4 +131,4 @@ Hjemmekontor og karantene kom nok brått på ganske mange. I tillegg fraråder F
 
 Utstyr | Levert hittil
 --- | ---
-Skjermer | 5 stk
+Skjermer | 20 stk
