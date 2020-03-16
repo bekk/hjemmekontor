@@ -127,7 +127,7 @@ Lenke | Aldersgruppe | Beskrivelse
 
 ## 💪 Dugnad
 
-Hjemmekontor og karantene kom nok brått på ganske mange. I tillegg fraråder FHI folk å ta offentlig transport for å redusere smitterisiko. Har du behov for å få kontorutstyr kjøpt fra en møbelbutikk, datautstyr fra en elktrohandel, og få dette levert til hjemmekontoret? Flere av oss har tilgang til bil og stillere gjerne opp. Bare send oss en mail til hjemmekontor@bekk.no, eller lag en issue på dette repoet. Skriv hva du trenger så skal vi hjelpe så godt vi kan. Dette er en dugnad, så vi gjør dette på eget initiativ og frivillig. Du betaler selvfølgelig ikke for noe mer enn utstyret :)
+Hjemmekontor og karantene kom nok brått på ganske mange. I tillegg fraråder FHI folk å ta offentlig transport for å redusere smitterisiko. Har du behov for å kjøpe kontorutstyr fra en møbelbutikk, datautstyr fra en elktrohandel, og få dette levert til hjemmekontoret? Flere av oss har tilgang til bil og stiller gjerne opp. Bare send en mail til hjemmekontor@bekk.no, eller lag en issue på dette repoet. Skriv hva du trenger så skal vi hjelpe så godt vi kan. Dette er en dugnad, så vi gjør dette på eget initiativ og frivillig. Du betaler selvfølgelig ikke for noe mer enn utstyret :)
 
 Utstyr | Levert hittil
 --- | ---
