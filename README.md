@@ -5,7 +5,7 @@
 
 Det har vært spennende å se hvordan vi har tilpasset oss endringen de siste dagene. Vi har vært fleksible, generøse og kreative. Det har rett og slett vært imponerende å få oppleve endringen! God jobbet!
 
-For å gjøre overgangen til hjemmekontor best mulig deler vi det som har dukket opp av tips og triks i våre Slack kanaler, vel som rundt om i IT-Norge og i verden. For overgangen til hjemmekontor er ikke bare en norsk dugnad, den er internasjonal. Fra [Microsoft som tilbyr Teams gratis til bedrifter i 6 måneder](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) til [Discord som øker antall deltagere i Go Live ](https://blog.discordapp.com/helping-out-where-we-can-3a5fb7bac77a) er det tydelig at vi er i dette sammen og at vi strekker oss langt for å hjelpe hverandre der vi kan!
+For å gjøre overgangen til hjemmekontor best mulig deler vi det som har dukket opp av tips og triks i våre Slack kanaler, vel som rundt om i IT-Norge og i verden. For overgangen til hjemmekontor er ikke bare en norsk dugnad, den er internasjonal. Fra [Microsoft som tilbyr Teams gratis til bedrifter i 6 måneder](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) til [Discord som øker antall deltagere i Go Live](https://blog.discordapp.com/helping-out-where-we-can-3a5fb7bac77a) er det tydelig at vi er i dette sammen og at vi strekker oss langt for å hjelpe hverandre der vi kan!
 
 **Vi tar gjerne imot forslag til endringer og ting som kan legges til!** Fork og lag en PR så får vi det inn så raskt vi kan. Hvis du av en grunn ikke har anledning til å lage en PR kan du sende en mail til hjemmekontor@bekk.no.
 
@@ -35,8 +35,8 @@ Noen erfaringer vi har gjort oss med å ha folk sittende på hjemmekontor:
 
 ## 📕 Les mer og inspirasjon
 
- Lenke  | Beskrivelse 
- --- | --- 
+ Lenke  | Beskrivelse
+ --- | ---
 📰 [GitLab om remote work](https://about.gitlab.com/company/culture/all-remote/) | GitLab er et "All Remote" selskap. De har mange års erfaring for remote work og har delt masse om hvordan de gjøre det og hvilke utfordringer de har møtt på og kommet over.
 📰 [Why Great Teams Embrace Remote Work](https://info.trello.com/embrace-remote-work-ultimate-guide) | En samling fra Trello som har sett på hvordan flere flinke firmaer håndtere jobbing hjemmefra.
 📰 [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) | Fra GitLab om hvordan man kan fostre en remote-first kultur og hva som er viktig å tenke på for en slik organisasjon.
@@ -47,16 +47,15 @@ Noen erfaringer vi har gjort oss med å ha folk sittende på hjemmekontor:
 📕 [REMOTE: Office Not Required](https://basecamp.com/books/remote) | In this book, Jason Fried and David Heinemeier Hansson show both employers and employees how they can work together, remotely, from any desk, in any place, anytime, anywhere.
 🎧 [Kortslutning: Hjemmekontor](https://kortslutning.simplecast.com/episodes/hjemmekontor) | "Hjemmekontor er den nye normalen for veldig mange i disse tider, oss også. Hvordan har vi opplevd den første tiden med så utbredt bruk av hjemmekontor? Hvilke ting synes vi er vanskelige og hvilke ting har vært overaskende?"
 
-
 ## 🛠 Verktøy
+
 Verktøy | Beskrivelse
 --- | ---
 🛠 [Self Control app](https://selfcontrolapp.com/)  | Lar deg blokkere diverse nettsteder for X antall minutter/timer om gangen og er hvertfall nok til at jeg ikke åpner VG for å bare dobbeltsjekke at det ikke har kommet noe nytt…
-🛠 [Go F Work](https://chrome.google.com/webstore/detail/go-fucking-work/hibmkkpfegfiinilnlabbfnjcopdiiig) | Låser av sider du legger inn i blacklist, også kan du sette tidsperioder for når du vil at blokkeringen skal være aktiv. Kan også trykke på pause ved behov. Passer seg kanskje ikke på kontoret, men perfekt når man sitter hjemme 
+🛠 [Go F Work](https://chrome.google.com/webstore/detail/go-fucking-work/hibmkkpfegfiinilnlabbfnjcopdiiig) | Låser av sider du legger inn i blacklist, også kan du sette tidsperioder for når du vil at blokkeringen skal være aktiv. Kan også trykke på pause ved behov. Passer seg kanskje ikke på kontoret, men perfekt når man sitter hjemme.
 🛠 [Timing app](https://timingapp.com/?lang=en) | Den lagrer informasjon om hvilke app’er du er på og når du er ved maskinen, så slipper man å huske på noe og kan sjekke etterpå hvor lenge man har jobbet og med hva.
 🛠 [Toggl](https://toggl.com/) | Verktøy for å logge hvor mye tid man bruker på ulike forhåndsdefinerte oppgaver.
 🛠 [RescueTime](https://www.rescuetime.com/)  | Automatisk tracking av hvor mye tid man bruker i ulike apper og nettsider.
-
 
 ## 👥 Møtene
 
@@ -79,7 +78,6 @@ Noen erfaringer med å gjennomføre møter når noen eller alle er remote:
 8. Å ha en lett synlig chatteplatform ved siden av er en god måte å kunne sende inn spørsmål på. Det fungerer absolutt best hvis det er innebygd chat i videoplatformen.
 
 9. Det er ikke nødvendig å spørre "hører dere meg" før man begynner å snakke. Folk kommer til å si i fra hvis ikke.
-
 
 ### Verktøy for å se og snakke med hverandre
 
@@ -114,11 +112,13 @@ Verktøy | Beskrivelse
 🛠 [Figma](https://www.figma.com) | Opprinnelig ment som UX-verktøy, men kan fungere ypperlig som samhandlingsverktøy også. Om teamet bruker Figma som tegneverktøy, kan dette lett brukes. Features: Redigere samtidig, Follow-mode ( skjermen viser alltid musepekeren til en du velger), Gratis for observers, betalt for de som skal redigere/tegne
 
 ## 🗣 Samhandling ("praten ved pulten")
+
 Med Discord kan en opprette egen kanal hvor mic og lyd blir muta, men andre kan dra deg over i en annen kanal. På den måten kan en bli med i denne kanalen og fortelle andre om at du er tilgjengelig så kan de bare dra deg over i den kanalen de trenger deg i. Blir litt som å komme bort til pulten og spørre.
 
 Det kan også være nyttig å ha en kanal for teamet hvor alle i teamet blir med men holder mic mutet til en har behov for å spørre om noe. Dette senker terskelen for å ta kontakt.
 
 ### Parprogrammering eller andre samarbeidssesjoner
+
 Verktøy | Beskrivelse
 --- | ---
 🛠 [USE together](https://www.use-together.com/) | Skjermdeling med delt kontroll - alle deltakerne får hver sin muspeker.  Det er også lyd som fungerer godt selv når flere snakker samtidig.
@@ -126,6 +126,7 @@ Verktøy | Beskrivelse
 🛠 [tmate](https://tmate.io/) | Kan brukes til å dele en terminal (tenk SSH) med flere, slik at man for eksempel kan samarbeide med feilsøking på en server, eller installasjon og konfigurasjon.
 
 ### Samarbeid for de virkelig paranoide (eller samfunnskritiske / konfidensielle)
+
 Deling er bra, men enkelte ting skal ikke deles.
 Verktøy | Beskrivelse
 --- | ---
@@ -144,7 +145,6 @@ Det er altid viktig å tenke på sikkerhet også når en har hjemmekontor. En er
 
 Vi har de siste dagene samlet oss om lunch quizen på Discord. Det har fungert temmelig bra! Ellers er det ikke noe i veien for å avtale litt kaffeprat!
 
-
 ## 💪🏿 Helse
 
 ### Trening
@@ -155,7 +155,6 @@ Lenke | Beskrivelse
 [3T - Hjemmetrening](https://3t.no/hjemmetrening/) | Gravid / mamma, Hiit, Styrke, Yoga
 [LiveGymSkole - hjemmetrening for barn og unge](https://livegymskole.no/) | Når barna ikke får komme til gymsalen, får gymsalen komme til barna.
 [Yogobe](https://yogobe.com/no/) |  Krever betaling. Yoga, pilates, beveglighetstrening, JinYoga, løping, styke. Mange nivåer.
-
 
 ## 🧒 Barn
 
