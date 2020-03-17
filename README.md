@@ -84,6 +84,13 @@ Verktøy | Beskrivelse
 🛠 [Webex Meetings](https://www.webex.com/video-conferencing) | Dette er en tjeneste fra Cisco hvor du får et personlig møterom som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android, eller via en nettleser.Du kan ringe in-room systemer med denne, og det finnes versjoner av Webex som lar deg ha webinarer, store møter, osv.Det finnes også virtuelle møterom, løsninger for samhandling à la Slack, osv.
 🛠 [Microsoft Teams](https://teams.microsoft.com/_#/discover) | Mulighet for chat, samtale og video. Passer godt for de som bruker Office 365.
 
+### Verktøy for å ha en til mange møter
+
+Verktøy | Beskrivelse
+--- | ---
+[Twitch](https://www.twitch.tv/) | Twitch lar deg streame til mange mens de som ser på kan komme med spørsmål og kommentarer
+[Youtube Live](https://www.youtube.com/live) | Youtube Live lar deg streame til mange mens de som ser på kan komme med kommentarer og spørsmål
+
 ### Verktøy for workshops
 
 Verktøy | Beskrivelse
