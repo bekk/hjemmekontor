@@ -133,3 +133,11 @@ Lenke | Aldersgruppe | Beskrivelse
 [BrettBoka](https://brettboka.no/?fbclid=IwAR2WHBWANAMUfocNFGoWid0TA5AddqHh6XRMWufxVnVKubpa3F5C1SLhmAo) | 5-19 år | BrettBoka tilbyr digitale lærebøker fra alle forlag samlet i én bokhylle. Gratis under krisen med kampanjekode *corona20*
 [NRK Skole](https://www.nrk.no/skole/) | Barne- og ungdomsskole | Videoer og dokumentarer relevant for mange fag.
 
+## 💪 Dugnad
+
+Hjemmekontor og karantene kom brått på mange. I tillegg fraråder myndighetene folk å ta offentlig transport for å redusere smitterisiko. Har du behov for å kjøpe kontorutstyr fra en møbelbutikk, datautstyr fra en elektrohandel, og få dette levert til hjemmekontoret? Flere av oss har tilgang til bil og stiller gjerne opp. Bare send en mail til hjemmekontor@bekk.no, eller lag en issue på dette repoet. Skriv hva du trenger så skal vi hjelpe så godt vi kan. Dette er en dugnad, så vi gjør dette på eget (privat) initiativ og frivillig. Du betaler selvfølgelig ikke for noe mer enn utstyret :)
+
+Utstyr | Levert hittil
+--- | ---
+Skjermer | 22 stk
+Stoler | 5 stk
