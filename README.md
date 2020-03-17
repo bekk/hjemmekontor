@@ -11,7 +11,8 @@ For å gjøre overgangen til hjemmekontor best mulig deler vi det som har dukket
 
 **Spørsmål?** De aller aller fleste verktøyene her brukes av en eller flere teams i Bekk. Har du spørsmål om erfaringer? Send en mail til hjemmekontor@bekk.no!
 
-**Index**
+## Index
+
 - [🍬 Tips og triks](#-tips-og-triks)
 - [📕 Les mer og inspirasjon](#-les-mer-og-inspirasjon)
 - [🛠 Verktøy](#-verktøy)
@@ -134,6 +135,7 @@ Verktøy | Beskrivelse
 🛠 [Keybase](https://keybase.io/) | Ende til ende kryptert meldinger, filer, Git-repoer mm.  Kan også brukes til å verifisere identitet på tvers av sosiale plattformer som f.eks. Github og Twitter, og man har mulighet til å sende en sikker melding til f.eks. et Twitter-brukernavn.
 
 ## 🔐 Sikkerhet
+
 Det er altid viktig å tenke på sikkerhet også når en har hjemmekontor. En er i en annen setting, er kanskje litt distrahert og vil gjøre det en kan for at arbeidet skal gå greiet mulig. Det er lett å senke skuldrene og gjøre noe som kan skape problemer. Her er et par ting en bør tenke på rundt sikkerhet som er minst like viktig i disse tidene som ellers.
 
 1. Skru på 2-faktor på de applikasjonene som støtter det
