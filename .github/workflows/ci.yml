@@ -12,4 +12,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Run linting
-      run: docker run --rm -v $(pwd):/usr/src/app/files -it andmos/markdownlint **/*.md
+      run: docker run --rm -v $(pwd):/usr/src/app/files andmos/markdownlint **/*.md
