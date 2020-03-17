@@ -38,9 +38,8 @@ Noen erfaringer vi har gjort oss med å ha folk sittende på hjemmekontor:
 
  Lenke  | Beskrivelse
  --- | ---
-📰 [GitLab om remote work](https://about.gitlab.com/company/culture/all-remote/) | GitLab er et "All Remote" selskap. De har mange års erfaring for remote work og har delt masse om hvordan de gjøre det og hvilke utfordringer de har møtt på og kommet over.
 📰 [Why Great Teams Embrace Remote Work](https://info.trello.com/embrace-remote-work-ultimate-guide) | En samling fra Trello som har sett på hvordan flere flinke firmaer håndtere jobbing hjemmefra.
-📰 [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) | Fra GitLab om hvordan man kan fostre en remote-first kultur og hva som er viktig å tenke på for en slik organisasjon.
+📰 [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) | GitLab er et "All Remote" selskap. De har mange års erfaring for remote work og har delt masse om hvordan de gjøre det og hvilke utfordringer de har møtt på og kommet over.
 📰 [Et norsk perspektiv fra DN.](https://www.dn.no/d2/livsstil/10-tips-slik-lykkes-du-med-hjemmekontoret/2-1-771731) |  10 tips: Slik lykkes du med hjemmekontoret
 📰 [Quick, work remote! A guide on how to set up your remote working strategy](https://intenseminimalism.com/2020/quick-work-remote/) | “Given in the last decade we have now built a fairly effective infrastructure that allows remote working, “stay at home” has now evolved in “work from home” — and its matching hashtag #wfh.! - Intense minimalism.com
 📰 [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)  | “The how, where, why, and when we communicate. Long form asynchronous? Real-time chat? In-person? Video? Verbal? Written? Via email? In Basecamp? How do we keep everyone in the loop without everyone getting tangled in everyone else's business? It's all in here.”
