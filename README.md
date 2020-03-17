@@ -73,8 +73,6 @@ Noen erfaringer med å gjennomføre møter når noen eller alle er remote:
 
 Det som er skikkelig vrient med løsningene som finnes for videosamtaler, er at mange av dem ikke snakker med hverandre, og at hver av dem har noen særegenheter som du ikke vet om før du har brukt dem en stund. I første omgang vil vi her samle en liste over verktøy som vi har erfaring med, deretter vil vi forsøke å forklare hva som er bra, mindre bra og skikkelig irriterende med hver av dem.
 
-Det er tre ting som er viktige om du vil
-
 Verktøy | Beskrivelse
 --- | ---
 🛠 [Slack](https://slack.com/intl/en-no/) | App som lar deg opprette en server for en bedrift og flere kanaler for forskjellige grupperinger. Primært fokus på text, men med mulighet for å ringe og dele skjermbilde.  
@@ -135,11 +133,3 @@ Lenke | Aldersgruppe | Beskrivelse
 [BrettBoka](https://brettboka.no/?fbclid=IwAR2WHBWANAMUfocNFGoWid0TA5AddqHh6XRMWufxVnVKubpa3F5C1SLhmAo) | 5-19 år | BrettBoka tilbyr digitale lærebøker fra alle forlag samlet i én bokhylle. Gratis under krisen med kampanjekode *corona20*
 [NRK Skole](https://www.nrk.no/skole/) | Barne- og ungdomsskole | Videoer og dokumentarer relevant for mange fag.
 
-
-## 💪 Dugnad
-
-Hjemmekontor og karantene kom nok brått på ganske mange. I tillegg fraråder FHI folk å ta offentlig transport for å redusere smitterisiko. Har du behov for å kjøpe kontorutstyr fra en møbelbutikk, datautstyr fra en elktrohandel, og få dette levert til hjemmekontoret? Flere av oss har tilgang til bil og stiller gjerne opp. Bare send en mail til hjemmekontor@bekk.no, eller lag en issue på dette repoet. Skriv hva du trenger så skal vi hjelpe så godt vi kan. Dette er en dugnad, så vi gjør dette på eget initiativ og frivillig. Du betaler selvfølgelig ikke for noe mer enn utstyret :)
-
-Utstyr | Levert hittil
---- | ---
-Skjermer | 20 stk
