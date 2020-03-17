@@ -123,6 +123,7 @@ Lenke | Aldersgruppe | Beskrivelse
 [Aftenposten Junior](https://www.aftenposten.no/kampanje/aftenpostenjunior/) | Barne- og ungdomsskole | Egen avis for barn.
 [Lesemeister](https://lesemeister.no/) | Barne- og ungdomsskole | Lesetrening. Kan [åpnes for skoler etter avtale](https://lesemeister.no/tilbud-om-gratis-bruk-av-lesemester-nar-skolen-er-stengt/) for gratis bruk.
 [BrettBoka](https://brettboka.no/?fbclid=IwAR2WHBWANAMUfocNFGoWid0TA5AddqHh6XRMWufxVnVKubpa3F5C1SLhmAo) | 5-19 år | BrettBoka tilbyr digitale lærebøker fra alle forlag samlet i én bokhylle. Gratis under krisen med kampanjekode *corona20*
+[NRK Skole](https://www.nrk.no/skole/) | Barne- og ungdomsskole | Videoer og dokumentarer relevant for mange fag.
 
 
 ## 💪 Dugnad
