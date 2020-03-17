@@ -11,7 +11,19 @@ For å gjøre overgangen til hjemmekontor best mulig deler vi det som har dukket
 
 **Spørsmål?** De aller aller fleste verktøyene her brukes av en eller flere teams i Bekk. Har du spørsmål om erfaringer? Send en mail til hjemmekontor@bekk.no!
 
-##  Tips og triks
+**Index**
+- [🍬 Tips og triks](#-tips-og-triks)
+- [📕 Les mer og inspirasjon](#-les-mer-og-inspirasjon)
+- [🛠 Verktøy](#-verktøy)
+- [👥 Møtene](#-møtene)
+- [🗣 Samhandling ("praten ved pulten")](#-samhandling-praten-ved-pulten)
+- [🔐 Sikkerhet](#-sikkerhet)
+- [💕 Det sosiale ("kaffemaskinpraten")](#-det-sosiale-kaffemaskinpraten)
+- [💪🏿 Helse](#-helse)
+- [🧒 Barn](#-barn)
+- [💪 Dugnad](#-dugnad)
+
+## 🍬 Tips og triks
 
 Noen erfaringer vi har gjort oss med å ha folk sittende på hjemmekontor:
 
@@ -119,6 +131,14 @@ Verktøy | Beskrivelse
 --- | ---
 🛠 [Crypho](https://www.crypho.com/) | Ende til ende kryptert samarbeidsrom med veldokumentert sikkerhet.  Brukes av både NSM, politi og helsevesen i Norge ifølge deres egne referanse.  Norsk tjeneste.
 🛠 [Keybase](https://keybase.io/) | Ende til ende kryptert meldinger, filer, Git-repoer mm.  Kan også brukes til å verifisere identitet på tvers av sosiale plattformer som f.eks. Github og Twitter, og man har mulighet til å sende en sikker melding til f.eks. et Twitter-brukernavn.
+
+## 🔐 Sikkerhet
+Det er altid viktig å tenke på sikkerhet også når en har hjemmekontor. En er i en annen setting, er kanskje litt distrahert og vil gjøre det en kan for at arbeidet skal gå greiet mulig. Det er lett å senke skuldrene og gjøre noe som kan skape problemer. Her er et par ting en bør tenke på rundt sikkerhet som er minst like viktig i disse tidene som ellers.
+
+1. Skru på 2-faktor på de applikasjonene som støtter det
+2. Pass på at de enhetene du bruker er passordbeskyttet og låses automatisk slik at det du har tilgang til blir lettere tilgjengelig for andre fordi du bruker en privat maskin for å få arbeid gjort og at denne maskina er sikra dårligere enn din jobb maskin er. Her kan det være greit å passe på å lase maskinen når en går fra den hvis en har noen langfingra smårollinger som liker å trykke på knapper.
+3. Vær ekstra oppmerksom på phising og scams. Det er lett å gjøre feil å stole på ting en ikke bør stole på i disse tidene. Så får du en uventet epost så er det lurt å plukke opp telefonen og ringe et kjent nummer til personen som sendte den for å bekrefte at det ikke er noe farlig.
+4. Tenk igjennom hva du deler og hvor og vurder å bruke sikre løsninger for kommunikasjon til samfundskritiske / konfidensielle møter. Se forslag til verktøy under [Deling er bra, men enkelte ting skal ikke deles](#samarbeid-for-de-virkelig-paranoide-eller-samfunnskritiske--konfidensielle).
 
 ## 💕 Det sosiale ("kaffemaskinpraten")
 
