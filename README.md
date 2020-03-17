@@ -101,6 +101,20 @@ Verktøy | Beskrivelse
 🛠 [Draw.io](draw.io) | Verktøy for å lage diagrammer. Flere kan samhandle og det kan lagres til google drive. Kan brukes til workshop og som tavle ved behov.
 🛠 [Figma](https://www.figma.com) | Opprinnelig ment som UX-verktøy, men kan fungere ypperlig som samhandlingsverktøy også. Om teamet bruker Figma som tegneverktøy, kan dette lett brukes. Features: Redigere samtidig, Follow-mode ( skjermen viser alltid musepekeren til en du velger), Gratis for observers, betalt for de som skal redigere/tegne
 
+## Parprogrammering eller andre samarbeidssesjoner
+Verktøy | Beskrivelse
+--- | ---
+🛠 [USE together](https://www.use-together.com/) | Skjermdeling med delt kontroll - alle deltakerne får hver sin muspeker.  Det er også lyd som fungerer godt selv når flere snakker samtidig.
+🛠 [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) | Alle kan jobbe sammen i samme editor.  Fungerer både i Visual Studio og Visual Studio Code, og kan også inkludere lyd.
+🛠 [tmate](https://tmate.io/) | Kan brukes til å dele en terminal (tenk SSH) med flere, slik at man for eksempel kan samarbeide med feilsøking på en server, eller installasjon og konfigurasjon.
+
+## Samarbeid for de virkelig paranoide (eller samfunnskritiske / konfidensielle)
+Deling er bra, men enkelte ting skal ikke deles.
+Verktøy | Beskrivelse
+--- | ---
+🛠 [Crypho](https://www.crypho.com/) | Ende til ende kryptert samarbeidsrom med veldokumentert sikkerhet.  Brukes av både NSM, politi og helsevesen i Norge ifølge deres egne referanse.  Norsk tjeneste.
+🛠 [Keybase](https://keybase.io/) | Ende til ende kryptert meldinger, filer, Git-repoer mm.  Kan også brukes til å verifisere identitet på tvers av sosiale plattformer som f.eks. Github og Twitter, og man har mulighet til å sende en sikker melding til f.eks. et Twitter-brukernavn.
+
 ## 🗣 Samhandling ("praten ved pulten")
 Med Discord kan en opprette egen kanal hvor mic og lyd blir muta, men andre kan dra deg over i en annen kanal. På den måten kan en bli med i denne kanalen og fortelle andre om at du er tilgjengelig så kan de bare dra deg over i den kanalen de trenger deg i. Blir litt som å komme bort til pulten og spørre.
 
