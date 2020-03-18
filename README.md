@@ -146,6 +146,12 @@ Det er altid viktig å tenke på sikkerhet også når en har hjemmekontor. En er
 
 Vi har de siste dagene samlet oss om lunch quizen på Discord. Det har fungert temmelig bra! Ellers er det ikke noe i veien for å avtale litt kaffeprat!
 
+[God morgen meldinger i Slack](resources/morn.PNG)
+
+[Standup med morsomme hatter](resources/hattestandup.jpg)
+
+[Fredagspils](resources/fredagspils.PNG)
+
 ## 💪🏿 Helse
 
 ### Trening
