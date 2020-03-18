@@ -150,7 +150,7 @@ Vi har de siste dagene samlet oss om lunch quizen på Discord. Det har fungert t
 ![God_Morgen](resources/morn.PNG)
 
 ### Standup med hatter
-![Standup](resources/hattestandup.PNG)
+![Standup](resources/hattestandup.jpg)
 
 ### Fredagspils
 ![Pils](resources/fredagspils.PNG)
