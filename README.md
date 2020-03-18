@@ -99,7 +99,7 @@ Verktøy | Beskrivelse
 
 Verktøy | Beskrivelse
 --- | ---
-[Twitch](https://www.twitch.tv/) | Twitch lar deg streame til mange mens de som ser på kan komme med spørsmål og kommentarer
+[Twitch](https://www.twitch.tv/) | Twitch lar deg streame til mange mens de som ser på kan komme med spørsmål og kommentarer
 [Youtube Live](https://www.youtube.com/live) | Youtube Live lar deg streame til mange mens de som ser på kan komme med kommentarer og spørsmål
 
 ### Verktøy for workshops
@@ -173,5 +173,5 @@ Hjemmekontor og karantene kom brått på mange. I tillegg fraråder myndighetene
 
 Utstyr | Levert hittil
 --- | ---
-Skjermer | 22 stk
+Skjermer | 26 stk
 Stoler | 5 stk
