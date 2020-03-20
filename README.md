@@ -148,15 +148,15 @@ Vi har de siste dagene samlet oss om lunch quizen på Discord. Det har fungert t
 
 ### Check-in på morgenen
 
-<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="God morgen meldinger i Slack" src="https://github.com/bekk/hjemmekontor/blob/master/resources/morn.PNG?raw=true" /></a>
+<a href="https://raw.githubusercontent.com/bekk/hjemmekontor/master/resources/morn.PNG"><img style="width:300px; display:inline-block;" alt="God morgen meldinger i Slack" src="https://raw.githubusercontent.com/bekk/hjemmekontor/master/resources/morn.PNG" /></a>
 
 ### Standup med hatter
 
-<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="Standup med morsomme hatter" src="https://github.com/bekk/hjemmekontor/blob/master/resources/hattestandup.jpg?raw=true" /></a>
+<a href="https://raw.githubusercontent.com/bekk/hjemmekontor/master/resources/hattestandup.jpg"><img style="width:300px; display:inline-block;" alt="Standup med morsomme hatter" src="https://raw.githubusercontent.com/bekk/hjemmekontor/master/resources/hattestandup.jpg" /></a>
 
 ### Fredagspils
 
-<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="Fredagspils" src="https://github.com/bekk/hjemmekontor/blob/master/resources/fredagspils.png?raw=true" /></a>
+<a href="https://raw.githubusercontent.com/bekk/hjemmekontor/master/resources/fredagspils.png"><img style="width:300px; display:inline-block;" alt="Fredagspils" src="https://raw.githubusercontent.com/bekk/hjemmekontor/master/resources/fredagspils.png" /></a>
 
 ## 💪🏿 Helse
 
