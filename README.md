@@ -146,11 +146,17 @@ Det er altid viktig å tenke på sikkerhet også når en har hjemmekontor. En er
 
 Vi har de siste dagene samlet oss om lunch quizen på Discord. Det har fungert temmelig bra! Ellers er det ikke noe i veien for å avtale litt kaffeprat!
 
-<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="God morgen meldinger i Slack" src="resources/morn.png" /></a>
+### Check-in på morgenen
 
-<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="Standup med morsomme hatter" src="resources/hattestandup.jpg" /></a>
+<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="God morgen meldinger i Slack" src="https://github.com/bekk/hjemmekontor/blob/master/resources/morn.PNG?raw=true" /></a>
 
-<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="Fredagspils" src="resources/fredagspils.png" /></a>
+### Standup med hatter
+
+<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="Standup med morsomme hatter" src="https://github.com/bekk/hjemmekontor/blob/master/resources/hattestandup.jpg?raw=true" /></a>
+
+### Fredagspils
+
+<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="Fredagspils" src="https://github.com/bekk/hjemmekontor/blob/master/resources/fredagspils.png?raw=true" /></a>
 
 ## 💪🏿 Helse
 
