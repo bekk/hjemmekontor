@@ -145,13 +145,12 @@ Det er altid viktig å tenke på sikkerhet også når en har hjemmekontor. En er
 ## 💕 Det sosiale ("kaffemaskinpraten")
 
 Vi har de siste dagene samlet oss om lunch quizen på Discord. Det har fungert temmelig bra! Ellers er det ikke noe i veien for å avtale litt kaffeprat!
-s
-[God morgen meldinger i Slack](resources/morn.png)
 
-[Standup med morsomme hatter](resources/hattestandup.jpg)
+<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="God morgen meldinger i Slack" src="resources/morn.png" /></a>
 
-[Fredagspils](resources/fredagspils.png)
+<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="Standup med morsomme hatter" src="resources/hattestandup.jpg" /></a>
 
+<a href="resources/morn.png"><img style="width:300px; display:inline-block;" alt="Fredagspils" src="resources/fredagspils.png" /></a>
 
 ## 💪🏿 Helse
 
