@@ -102,7 +102,7 @@ Verktøy | Beskrivelse
 [Twitch](https://www.twitch.tv/) | Twitch lar deg streame til mange mens de som ser på kan komme med spørsmål og kommentarer
 [Youtube Live](https://www.youtube.com/live) | Youtube Live lar deg streame til mange mens de som ser på kan komme med kommentarer og spørsmål
 
-### Verktøy for workshops
+### Verktøy for workshops og retrospectiver
 
 Verktøy | Beskrivelse
 --- | ---
@@ -110,6 +110,7 @@ Verktøy | Beskrivelse
 🛠 [Miro](https://miro.com/) | Funka overraskende bra til retro! Fordi man har begrenset skjermplass til både video og miro, brukte vi bare lyd — men siden man kan se musepekeren til alle deltakere, lagde vi et lite "vil snakke", "snakker" - visuelt køsystem. Digge retroverktøy i Miro: 1) Alle kan redigere samtidig, 2) Timer som er synlig for alle, 3) Anonym avstemningsystem, som gjorde at vi kunne stemme på hva vi ville snakke mer om uten å utsette folk for gruppetenking
 🛠 [Draw.io](draw.io) | Verktøy for å lage diagrammer. Flere kan samhandle og det kan lagres til google drive. Kan brukes til workshop og som tavle ved behov.
 🛠 [Figma](https://www.figma.com) | Opprinnelig ment som UX-verktøy, men kan fungere ypperlig som samhandlingsverktøy også. Om teamet bruker Figma som tegneverktøy, kan dette lett brukes. Features: Redigere samtidig, Follow-mode ( skjermen viser alltid musepekeren til en du velger), Gratis for observers, betalt for de som skal redigere/tegne
+🛠 [Retrium](https://www.retrium.com) | Anvendelig verktøy som kan brukes til å kjøre en hel del forskjellige kategorier av møter. Vi har brukt det med hell til å kjøre smidige retrospectiver. Retrium gjør det enkelt både å samle innsikt og komme fram til egnede aksjonspunkter.
 
 ## 🗣 Samhandling ("praten ved pulten")
 
