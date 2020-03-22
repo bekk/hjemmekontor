@@ -94,6 +94,7 @@ Verktøy | Beskrivelse
 🛠 [Whereby](https://whereby.com)|Whereby laget kun rundt ideen om virtuelle møterom. Du ringer inn til et rom, du ringer ikke til andre brukere.Du trenger bare Firefox / nyere versjon av Chrome for å bruke Whereby, men de har også apper for iOS og Android.Whereby er veldig rett-frem å bruke. Enkelt å dele skjerm via Firefox. Du kan ikke ringe in-room-løsninger med Whereby.
 🛠 [Webex Meetings](https://www.webex.com/video-conferencing) | Dette er en tjeneste fra Cisco hvor du får et personlig møterom som alle kan ringe inn til, via klienter på Mac / Windows og apper på iOS og Android, eller via en nettleser.Du kan ringe in-room systemer med denne, og det finnes versjoner av Webex som lar deg ha webinarer, store møter, osv.Det finnes også virtuelle møterom, løsninger for samhandling à la Slack, osv.
 🛠 [Microsoft Teams](https://teams.microsoft.com/_#/discover) | Mulighet for chat, samtale og video. Passer godt for de som bruker Office 365.
+🛠 [Jitsi Meet](https://meet.jit.si/) | Gratis, open-source videomøterom. Ingen konto nødvendig – man kan enten bli med via en link eller ringe inn via telefon. Kan integreres med Google Calendar og Office 365.
 
 ### Verktøy for å ha en til mange møter
 
