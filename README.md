@@ -125,6 +125,7 @@ Verktøy | Beskrivelse
 🛠 [USE together](https://www.use-together.com/) | Skjermdeling med delt kontroll - alle deltakerne får hver sin muspeker.  Det er også lyd som fungerer godt selv når flere snakker samtidig.
 🛠 [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) | Alle kan jobbe sammen i samme editor.  Fungerer både i Visual Studio og Visual Studio Code, og kan også inkludere lyd.
 🛠 [tmate](https://tmate.io/) | Kan brukes til å dele en terminal (tenk SSH) med flere, slik at man for eksempel kan samarbeide med feilsøking på en server, eller installasjon og konfigurasjon.
+🛠 [mob](https://github.com/remotemobprogramming/mob) | Verktøy for å kunne drive par-/gruppeprogrammering ved hjelp av full kode-handover i Git til neste person. Det står mer om bruken av verktøyet i guiden [Remote mob programming](https://www.remotemobprogramming.org/).
 
 ### Samarbeid for de virkelig paranoide (eller samfunnskritiske / konfidensielle)
 
