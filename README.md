@@ -46,6 +46,7 @@ Noen erfaringer vi har gjort oss med å ha folk sittende på hjemmekontor:
 📰 [Norge jobber i hjemmekontor](https://dntv.dn.no/m/Du1ocZ7n/norge-jobber-i-hjemmekontor-tre-tips-til-arbeidstaker-og-ett-ekstra-tips-til-lederne) | Tre tips til arbeidstaker og ett ekstra tips til lederne
 📕 [REMOTE: Office Not Required](https://basecamp.com/books/remote) | In this book, Jason Fried and David Heinemeier Hansson show both employers and employees how they can work together, remotely, from any desk, in any place, anytime, anywhere.
 🎧 [Kortslutning: Hjemmekontor](https://kortslutning.simplecast.com/episodes/hjemmekontor) | "Hjemmekontor er den nye normalen for veldig mange i disse tider, oss også. Hvordan har vi opplevd den første tiden med så utbredt bruk av hjemmekontor? Hvilke ting synes vi er vanskelige og hvilke ting har vært overaskende?"
+🎧 [Making Sense with Sam Harris: The New Future of Work](https://samharris.org/podcasts/194-new-future-work/) | Sam Harris speaks with Matt Mullenweg about the evolution of distributed work. They discuss the benefits of working from home, the new norms of knowledge work, relevant tools and security concerns, the challenges for managers, the importance of written communication, etc. Matt Mullenweg is a founding developer of WordPress and Automattic. Automattic is entirely distributed—with 1,172 employees working in 75 countries.
 
 ## 🛠 Verktøy
 
